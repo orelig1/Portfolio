@@ -10,7 +10,21 @@ Hi, I'm Aurélie, a developer with a strong passion for game development. I rece
 
 ## Projects
 
-Here are some of the projects I’ve worked on:
-- Project 1
-- Project 2
-- Project 3
+### Game Development Projects
+
+- **[Unity Game: Example Project](link-to-project)**
+  - Description: A brief description of the project.
+  - Skills Used: Unity, C#, Game Design
+  - Link: [GitHub Repo](link-to-repo)
+
+- **[Another Game Project](link-to-project)**
+  - Description: Another brief description of your project.
+  - Skills Used: Unity, C#
+  - Link: [GitHub Repo](link-to-repo)
+
+### Web Development Projects
+
+- **[Personal Website](link-to-project)**
+  - Description: Description of the website or web app.
+  - Skills Used: React, HTML, CSS
+  - Link: [Live Site](link-to-live-site) | [GitHub Repo](link-to-repo)
