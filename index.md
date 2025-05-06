@@ -21,3 +21,8 @@ Hi my name is Aurélie and I am bilingual (FR/EN) junior game developer. I also 
   - Description: Another brief description of your project.
   - Skills Used: Unity, C#
   - Link: [GitHub Repo](link-to-repo)
+ 
+### Front-End Development Projects
+
+
+## Certificates
