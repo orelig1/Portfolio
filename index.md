@@ -6,7 +6,7 @@ layout: default
 
 ## About Me
 
-Hi, I'm Aurélie, a developer with a strong passion for game development. I recently completed an AEC Programmer/Analyst program at LaSalle College, where I gained experience in various languages, including C#, Java, and JavaScript. I currently work as a Front-End Developer at LCG Solution, but my focus is shifting toward game development, and I’m set to continue my education at McGill University in 2025, pursuing a Game Development Bootcamp. I’ve worked on multiple personal and academic projects using Unity and C#, and I’m eager to continue building immersive game systems.
+I use my skills in C#, and Unity and attention to detail to create immersive and user-friendly game experiences. Known for my strong organizational skills and focus, I build efficient, interactive applications. Using my passion for problem-solving and game development, I strive to make technology accessible by providing intuitive, engaging gameplay. Through my commitment to quality and user experience, I believe in delivering impactful games that resonate with players.
 
 ## Projects
 
