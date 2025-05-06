@@ -6,7 +6,7 @@ layout: default
 
 ## About Me
 
-I use my skills in C#, and Unity and attention to detail to create immersive and user-friendly game experiences. Known for my strong organizational skills and focus, I build efficient, interactive applications. Using my passion for problem-solving and game development, I strive to make technology accessible by providing intuitive, engaging gameplay. Through my commitment to quality and user experience, I believe in delivering impactful games that resonate with players.
+Hi my name is Aurélie and I am bilingual (FR/EN) junior game developer. I also have experience in front-end development which has refined my organizational skills and attention to detail. I use my skills in C# and Unity to create immersive, user-friendly and interactive game experiences. Using my problem-solving abilities, I aim to make games accessible by providing intuitive, engaging gameplay. In my free time I enjoy playing games like League of Legends, World of Warcraft and Fae Farm.
 
 ## Projects
 
