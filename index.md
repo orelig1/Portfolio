@@ -18,7 +18,7 @@ Hi my name is Aurélie and I am bilingual (FR/EN) junior game developer. I also 
   - Skills Used: C#, Unity, Git, GitHub, Attention to detail, Collaboration, Creativity
   - Link: [GitHub Repo](https://github.com/orelig1/GameDevBootcamp-Objects)
 
-- **[Unity Game: Escape room]**
+- **Unity Game: Escape room**
   - Description: Multiple levels where you have to solve the puzzle and get out of the rooms without dying.
   - Skills Used: C#, Unity, Git, GitHub, Creativity, Design patterns, Implementation of levels
   - Link: [GitHub Repo](https://github.com/orelig1/Midterm)
@@ -28,6 +28,8 @@ Hi my name is Aurélie and I am bilingual (FR/EN) junior game developer. I also 
 - IT Essentials Certification – Cisco Network Academy
 
 ## Project Gallery
+
+<h2>Project Gallery</h2>
 
 <style>
 .carousel-container {
@@ -53,25 +55,37 @@ Hi my name is Aurélie and I am bilingual (FR/EN) junior game developer. I also 
 }
 </style>
 
-<div class="carousel-container">
+<div id="carousel" class="carousel-container">
   <img class="carousel-slide active" src="https://via.placeholder.com/600x300?text=Escape+Room+1" alt="Escape Room">
   <img class="carousel-slide" src="https://via.placeholder.com/600x300?text=Asteroids+Game" alt="Asteroids Game">
   <img class="carousel-slide" src="https://via.placeholder.com/600x300?text=Escape+Room+2" alt="Escape Room 2">
 </div>
 
 <div class="carousel-buttons">
-  <button onclick="changeSlide(-1)">Previous</button>
-  <button onclick="changeSlide(1)">Next</button>
+  <button id="prevBtn">Previous</button>
+  <button id="nextBtn">Next</button>
 </div>
 
 <script>
-let currentSlide = 0;
-const slides = document.querySelectorAll('.carousel-slide');
+  document.addEventListener("DOMContentLoaded", function () {
+    let currentSlide = 0;
+    const slides = document.querySelectorAll('.carousel-slide');
+    const totalSlides = slides.length;
 
-function changeSlide(n) {
-  slides[currentSlide].classList.remove('active');
-  currentSlide = (currentSlide + n + slides.length) % slides.length;
-  slides[currentSlide].classList.add('active');
-}
+    function showSlide(index) {
+      slides.forEach((slide, i) => {
+        slide.classList.toggle('active', i === index);
+      });
+    }
+
+    document.getElementById('prevBtn').addEventListener('click', () => {
+      currentSlide = (currentSlide - 1 + totalSlides) % totalSlides;
+      showSlide(currentSlide);
+    });
+
+    document.getElementById('nextBtn').addEventListener('click', () => {
+      currentSlide = (currentSlide + 1) % totalSlides;
+      showSlide(currentSlide);
+    });
+  });
 </script>
-
