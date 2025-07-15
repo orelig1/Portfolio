@@ -12,15 +12,15 @@ Hi my name is Aurélie and I am bilingual (FR/EN) junior game developer. I also 
 
 ### Game Development Projects
 
-- **[Unity Game: Example Project](link-to-project)**
+- **[Unity Game: Objects](https://profe.github.io/GameDevBootcamp-Objects/)**
   - Description: A brief description of the project.
   - Skills Used: Unity, C#, Game Design
-  - Link: [GitHub Repo](link-to-repo)
+  - Link: [GitHub Repo](https://github.com/orelig1/GameDevBootcamp-Objects)
 
-- **[Another Game Project](link-to-project)**
+- **[Another Game Project]**
   - Description: Another brief description of your project.
   - Skills Used: Unity, C#
-  - Link: [GitHub Repo](link-to-repo)
+  - Link: [GitHub Repo](https://github.com/orelig1/Midterm)
  
 ### Front-End Development Projects
 
