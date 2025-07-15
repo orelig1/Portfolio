@@ -71,3 +71,11 @@ Hi my name is Aurélie and I am bilingual (FR/EN) junior game developer. I also 
 </div>
 
 <script src="/Portfolio/assets/carousel.js"></script>
+
+---
+
+## 📫 Contact
+
+- ✉️ Email: [your.email@example.com](aurelie.gauthier11@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/aur%C3%A9lie-gauthier-54002429b/)
+- 🕹️ GitHub: [github.com/orelig1](https://github.com/orelig1)
