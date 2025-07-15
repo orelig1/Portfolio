@@ -54,9 +54,15 @@ Hi my name is Aurélie and I am bilingual (FR/EN) junior game developer. I also 
 </style>
 
 <div id="carousel" class="carousel-container">
-  <img class="carousel-slide active" src="https://via.placeholder.com/600x300?text=Escape+Room+1" alt="Escape Room">
-  <img class="carousel-slide" src="https://via.placeholder.com/600x300?text=Asteroids+Game" alt="Asteroids Game">
-  <img class="carousel-slide" src="https://via.placeholder.com/600x300?text=Escape+Room+2" alt="Escape Room 2">
+  <img class="carousel-slide active" src="/Portfolio/assets/images/Objects_Menu.png" alt="Asteroids Game">
+  <video class="carousel-slide" controls muted>
+    <source src="/Portfolio/assets/images/Objects_GamePlay.mp4" type="video/mp4">
+    Objects game play
+  </video>
+  <video class="carousel-slide" controls muted>
+    <source src="/Portfolio/assets/images/EscapeRoom_GamePlay.mp4" type="video/mp4">
+    Escape room game play
+  </video>
 </div>
 
 <div class="carousel-buttons">
